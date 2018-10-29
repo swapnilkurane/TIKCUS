@@ -1,5 +1,5 @@
 # Addition Program
-# This program adds two numbers
+This program adds two numbers
 
 
 
